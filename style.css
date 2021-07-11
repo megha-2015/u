@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: pink;
+}
+
+img{
+    width: 550px;
+    height: 450px;
+}
+
+
+.outer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.inner {
+    margin-right: 25px;
+    margin-left: 25px;
+}
